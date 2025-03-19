@@ -5,7 +5,7 @@
 
 A music artist tracking web application built with Go that displays band information, concert dates, and locations using data from the [Groupie Trackers API](https://groupietrackers.herokuapp.com/api).
 
-![Screenshot](https://raw.githubusercontent.com/BjornMikael/images/main/Groupie-Tracker+Screenshot.png?text=Groupie-Tracker+Screenshot)
+![Screenshot](https://raw.githubusercontent.com/BjornMikael/images/main/Groupie-Tracker-frontpage_new.png?text=Groupie-Tracker+Screenshot)
 
 ---
 
